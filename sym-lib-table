@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tp4056")(type "KiCad")(uri "/home/ckraemer/projects/catlamp/tp4056/tp4056_kicad6_base/tp4056.kicad_sym")(options "")(descr ""))
+  (lib (name "dw01")(type "KiCad")(uri "/home/ckraemer/projects/catlamp/tp4056/tp4056_kicad6_base/dw01.kicad_sym")(options "")(descr ""))
+  (lib (name "fs8205")(type "KiCad")(uri "/home/ckraemer/projects/catlamp/tp4056/tp4056_kicad6_base/fs8205.kicad_sym")(options "")(descr ""))
+  (lib (name "extern")(type "KiCad")(uri "${KIPRJMOD}/extern.kicad_sym")(options "")(descr ""))
+)
